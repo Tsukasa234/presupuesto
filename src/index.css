@@ -103,6 +103,7 @@ h2{
   list-style: none;
   margin-bottom: 0;
   border-bottom: 1px solid #e1e1e1;
+  padding: 1rem 0;
 }
 
 .gastos-realizados li:last-of-type{
@@ -116,7 +117,7 @@ h2{
   margin: 0;
 }
 
-.gastos-realizados li p .gastos{
+.gastos-realizados li p .gasto{
   background-color: #004085;
   padding: 1rem;
   color: white;
